@@ -19,7 +19,7 @@ Watch the full demonstration of the project features, including authentication, 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ###  User Authentication & Profile
 * **Secure Auth:** Registration and Login using Laravel Sanctum tokens.
