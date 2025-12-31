@@ -13,7 +13,7 @@ A modern, responsive blogging platform built with a **Laravel API** backend and 
 
 Watch the full demonstration of the project features, including authentication, CRUD operations, and real-time interactions.
 
-### [▶️ CLICK HERE TO WATCH THE DEMO VIDEO](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+### [▶️ CLICK HERE TO WATCH THE DEMO VIDEO](https://drive.google.com/file/d/18xmG4Kj1G9yZGCH2QuIi2CtlQ-v7S-IN/view?usp=sharing)
 
 *(Click the link above to view the video on Google Drive)*
 
